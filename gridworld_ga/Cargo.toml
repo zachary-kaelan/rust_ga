@@ -1,0 +1,8 @@
+[package]
+name = "gridworld_ga"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+genevo = "0.7.1"
+burn = "0.15.0"
